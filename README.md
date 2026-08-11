@@ -29,7 +29,7 @@ Messaging.sendEmail(
 System.debug('🚀 Email command sent to Salesforce servers!');
 ```
 <p align="center">
-  <img src="images/salesforce-email.png" alt="Salesforce Email Screenshot" width="800">
+  <img src="Screenshot 2026-08-11 214927.png" alt="Salesforce Email Screenshot" width="800">
 </p>
 ## 🚀 Step-by-Step Execution Guide
 
