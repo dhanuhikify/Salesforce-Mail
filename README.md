@@ -88,6 +88,9 @@ Open the recipient's email inbox and look for the message.
 If the email does not appear in the primary inbox within a few minutes, check the **Spam/Junk** folder.
 
 > **Note:** Successful execution of `Messaging.sendEmail()` means Salesforce accepted the email request. Actual delivery can still depend on Salesforce email settings, organization limits, recipient mail-server policies, and spam filtering.
+<p align="center">
+  <img src="Screenshot 2026-08-11 214848.png" alt="Salesforce Email Screenshot" width="800">
+</p>
 
 ## 🛠️ Technologies Used
 
