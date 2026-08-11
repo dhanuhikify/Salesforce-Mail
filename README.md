@@ -75,6 +75,9 @@ Once the execution log opens:
 ```text
 USER_DEBUG|[18]|DEBUG|🚀 Email command sent to Salesforce servers!
 ```
+<p align="center">
+  <img src="Screenshot 2026-08-11 214904.png" alt="Salesforce Email Screenshot" width="800">
+</p>
 
 This confirms that the Apex script successfully submitted the email request to Salesforce.
 
