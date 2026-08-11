@@ -84,20 +84,6 @@ If the email does not appear in the primary inbox within a few minutes, check th
 
 > **Note:** Successful execution of `Messaging.sendEmail()` means Salesforce accepted the email request. Actual delivery can still depend on Salesforce email settings, organization limits, recipient mail-server policies, and spam filtering.
 
-## 📌 Example Email
-
-**Subject:**
-
-```text
-Hello from Salesforce Developer Console!
-```
-
-**Body:**
-
-```text
-Success! This email was sent using Apex code in the Developer Console.
-```
-
 ## 🛠️ Technologies Used
 
 * **Salesforce**
@@ -105,6 +91,4 @@ Success! This email was sent using Apex code in the Developer Console.
 * `Messaging.SingleEmailMessage`
 * **Salesforce Developer Console**
 
-## 📄 License
 
-This project is intended for learning and testing purposes.
