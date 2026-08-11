@@ -13,7 +13,7 @@ apex
 Messaging.SingleEmailMessage email = new Messaging.SingleEmailMessage();
 
 // 2. Set your target recipient email address
-String[] toAddresses = new String[] {'mbpraneeth03@gmail.com'};
+String[] toAddresses = new String[] {'dhanyath91@gmail.com'};
 email.setToAddresses(toAddresses);
 
 // 3. Set the Subject and Body of the email
@@ -40,7 +40,7 @@ Click the **Gear Icon** ⚙️ in the top-right corner of your Salesforce lightn
 In the Developer Console menu bar, click on **Debug** and choose **Open Execute Anonymous Window** (or press `Ctrl + E` on Windows / `Cmd + E` on Mac).
 
 ### Step 3: Paste and Modify Code
-Clear any existing text in the window, paste the Apex code from this README, and update the `'mbpraneeth03@gmail.com'` string to your preferred testing email address if needed.
+Clear any existing text in the window, paste the Apex code from this README, and update the `'dhanyath91@gmail.com'` string to your preferred testing email address if needed.
 
 ### Step 4: Execute the Script
 Check the box next to **Open Log** in the bottom right corner of the execution popup window, then click the **Execute** button.
