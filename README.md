@@ -27,7 +27,6 @@ Messaging.sendEmail(new Messaging.SingleEmailMessage[] { email });
 System.debug('🚀 Email command sent to Salesforce servers!');
 ```
 
----
 
 ## 🚀 Step-by-Step Execution Guide
 
