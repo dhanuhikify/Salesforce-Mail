@@ -28,7 +28,9 @@ Messaging.sendEmail(
 // 5. Print a confirmation message to the logs
 System.debug('🚀 Email command sent to Salesforce servers!');
 ```
-
+<p align="center">
+  <img src="images/salesforce-email.png" alt="Salesforce Email Screenshot" width="800">
+</p>
 ## 🚀 Step-by-Step Execution Guide
 
 ### Step 1: Open the Developer Console
